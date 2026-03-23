@@ -1,0 +1,6 @@
+spike : 25 (10%)
+head : 61 (23%)
+body : 66 (25%)
+smoke : 111 (42%)
+
+total : 263 labels
